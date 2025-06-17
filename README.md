@@ -1,10 +1,11 @@
 # Aplicación para gestionar la asistencia de alumnado a ciclos formativos - APPsistencia v2.0 (Versión iOS)
 
 ![Swift](https://img.shields.io/badge/Lenguaje-Swift-orange?logo=swift)
-![Version](https://img.shields.io/badge/version-2.0-brightgreen)
+![Xcode](https://img.shields.io/badge/IDE-Xcode-147EFB?logo=xcode)
 ![API REST](https://img.shields.io/badge/API-RESTful-0d1117?logo=api&logoColor=white)
 ![Formato JSON](https://img.shields.io/badge/Intercambio-JSON-blue?logo=json)
 ![HTTP](https://img.shields.io/badge/Protocolo-HTTP%2FHTTPS-critical?logo=http)
+![Version](https://img.shields.io/badge/version-2.0-brightgreen)
 
 Este repositorio contiene una aplicación móvil desarrollada en *XCode*, destinada a la gestión de la asistencia del alumnado en ciclos formativos de formación profesional. Esta aplicación está en un muy temprado proceso de desarrollo y apenas tiene funcionalidad.
 
